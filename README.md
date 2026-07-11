@@ -1,6 +1,3 @@
-# random-shapes-canvas
-Randomly places stretched polygons on a canvas without overlap, using AABB + SAT collision detection.
-
 # Random Polygon Canvas Filler
 
 Randomly places stretched polygons on a canvas, ensuring they neither overlap nor contain each other.  
